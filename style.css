@@ -103,7 +103,7 @@ p {
   text-decoration: underline;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   h1 {
     font-size: 50px;
 }
