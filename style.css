@@ -101,3 +101,22 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 400px) {
+  h1 {
+    font-size: 50px;
+}
+h2 {
+  font-size: 38px;
+}
+
+h3 {font-size: 20px;
+} 
+.contact-link, .about-link {
+  font-size: smaller;
+}
+
+.email-link {
+font-size: 20px;
+}
+}
